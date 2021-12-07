@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">exercise646d</string>
+    <string name="lbl_name">Name: </string>
+    <string name="age_lbl">Age: </string>
+    <string name="lbl_city">City: </string>
+    <string name="filter_by_city_lbl">Filter By City:</string>
+    <string name="enter_city_name_hint">enter city name</string>
+    <string name="sorry_no_content">Sorry No Content</string>
+</resources>
